@@ -1,0 +1,24 @@
+{
+  "name": "es6-basis",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "learning project for es6 syntax",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "es6",
+    "arreglos",
+    "funciones"
+  ],
+  "author": "Ronal Castro",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
